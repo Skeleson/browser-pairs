@@ -11,9 +11,9 @@ a {
 
 body {
   text-align: center;
-  background-color: #F26522;
-  background: blue;
-  color: #DA4930;
+  background-color: blACK;
+  background: LIME Green;
+  color: green;
   font-family: "Days One", sans-serif;
 }
 
@@ -97,10 +97,10 @@ body {
 /* These styles create the images on the cards. We're using a path to the images
    included in a directory in our game, but you can also use an image that is
    hosted anyhwere on the internet by using its url in the "url()" rule. */
-.ie {background: url(./images/ie.png) no-repeat; background-size: contain;}
-.fx {background: url(./images/fx.png) no-repeat; background-size: contain;}
-.cr {background: url(./images/cr.png) no-repeat; background-size: contain;}
-.sf {background: url(./images/sf.png) no-repeat; background-size: contain;}
+.ie {background: url(http://fc04.deviantart.net/fs71/f/2012/265/0/0/totoro_by_kamiichan-d5fin05.png) no-repeat; background-size: contain;}
+.fx {background: url(http://www.petfinder.com/wp-content/uploads/2012/11/144366646-why-cat-pees-outside-litter-box-632x475.jpg) no-repeat; background-size: contain;}
+.cr {background: url(http://images3.wikia.nocookie.net/__cb20110121174523/deathnote/pl/images/c/c1/Death_note_05.png) no-repeat; background-size: contain;}
+.sf {background: url(http://www.android.com/media/android_vector.jpg) no-repeat; background-size: contain;}
 .op {background: url(./images/op.png) no-repeat; background-size: contain;}
 .ns {background: url(./images/ns.png) no-repeat; background-size: contain;}
 .tb {background: url(./images/tb.png) no-repeat; background-size: contain;}
