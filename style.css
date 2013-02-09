@@ -97,7 +97,7 @@ body {
 /* These styles create the images on the cards. We're using a path to the images
    included in a directory in our game, but you can also use an image that is
    hosted anyhwere on the internet by using its url in the "url()" rule. */
-.ie {background: url(./images/ie.png) no-repeat; background-size: contain;}
+.ie {background:http://i2.squidoocdn.com/resize/squidoo_images/-1/lens14055481_1339005739---a.jpg;}
 .fx {background: url(./images/fx.png) no-repeat; background-size: contain;}
 .cr {background: url(./images/cr.png) no-repeat; background-size: contain;}
 .sf {background: url(./images/sf.png) no-repeat; background-size: contain;}
@@ -139,7 +139,7 @@ body {
 
 /* The .button class is appled to the #install, #gamePlay, and #gameAgain buttons */
 .button {
-  background: white;
+  background: green;
   border-radius: 5px;
   font-size: 2em;
   padding: 10px;
